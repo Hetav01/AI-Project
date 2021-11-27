@@ -4,7 +4,7 @@ For first time you need to train the model
 ~~~
 python main.py 
 ~~~
-
+Secondly
 After Having a model
 
 ~~~
