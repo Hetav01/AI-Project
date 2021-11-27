@@ -47,4 +47,8 @@ python main.py --test True
     <td/>Shwet Khatri</td>
     <td>19DCS001</td>
   </tr>
+  <tr>
+    <td>Akshat Airan</td>
+    <td>19ucs186</td>
+  </tr>
 </table>
