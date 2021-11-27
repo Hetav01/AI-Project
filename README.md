@@ -51,4 +51,8 @@ python main.py --test True
     <td/>Harsh Chauhan</td>
     <td>19UCS034</td>
   </tr>
+  <tr>
+    <td/>Akshat Airan</td>
+    <td>19UCS186</td>
+  </tr>
 </table>
